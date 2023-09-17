@@ -24,6 +24,7 @@ While I have successfully integrated Stack AI and Botpress into my bot, it's imp
 
 My bot has been designed to provide a seamless user experience. To help you make the most of its capabilities, I have prepared a user guide.
 
+- Greet the bot initially
 - Mention the year’s details you want to know exclusively.
 - Do not ask any illegal information to the bot.
 
